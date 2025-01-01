@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic", "Basic\Basic.csproj", "{21640CAC-95FF-4A92-8339-40E932E2B7F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxLibrary", "..\TaxLibrary\TaxLibrary\TaxLibrary.csproj", "{B959759C-C892-426D-99EB-4E78497BA891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21640CAC-95FF-4A92-8339-40E932E2B7F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21640CAC-95FF-4A92-8339-40E932E2B7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21640CAC-95FF-4A92-8339-40E932E2B7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21640CAC-95FF-4A92-8339-40E932E2B7F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B959759C-C892-426D-99EB-4E78497BA891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B959759C-C892-426D-99EB-4E78497BA891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B959759C-C892-426D-99EB-4E78497BA891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B959759C-C892-426D-99EB-4E78497BA891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
