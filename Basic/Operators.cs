@@ -76,12 +76,12 @@ namespace Basic
 
             // Extra
             // Index from end operator ^
-            int[] xs = [0, 10, 20, 30, 40];
+            int[] xs = { 0, 10, 20, 30, 40 };
             int last = xs[^1];
             Console.WriteLine($"\nUsing ^ to find last element : {last}");
 
             // Range ..
-            int[] numbers = [0, 10, 20, 30, 40, 50];
+            int[] numbers = { 0, 10, 20, 30, 40, 50 };
             int start = 1;
             int amountToTake = 3;
             int[] subset = numbers[start..(start + amountToTake)];

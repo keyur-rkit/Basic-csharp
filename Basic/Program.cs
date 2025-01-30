@@ -28,7 +28,7 @@ namespace Basic
             Console.WriteLine("12. Multiple Inheritance");
             Console.WriteLine("13. Scope and Access Modifier");
             Console.WriteLine("14. Namespace");
-            Console.WriteLine("15. Reference");
+            //Console.WriteLine("15. Reference");
             Console.WriteLine("16. Collections");
             Console.WriteLine("17. Enumerations");
             Console.WriteLine("18. DataTables");
@@ -97,9 +97,9 @@ namespace Basic
                     Namespace.RunNamespaceDemo();
                     break;
 
-                case 15:
-                    Reference.RunReferenceDemo();
-                    break;
+                //case 15:
+                //    Reference.RunReferenceDemo();
+                //    break;
 
                 case 16:
                     Collections.RunCollectionsDemo();
